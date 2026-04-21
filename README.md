@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently a B-Tech First Year Student at Birla Global University, Bhubaneswar.  
-I'm currently learning JavaScript and exploring web development.
+I'm currently learning Node JS and exploring web development.
 
 ---
 
