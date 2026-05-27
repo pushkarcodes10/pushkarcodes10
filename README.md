@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 B-Tech First Year Student | 🌐 Web Developer | 🚀 Node.js Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Node.js+Learner;Open+Source+Enthusiast;Building+Cool+Things+with+Code+🚀" />
 
 </div>
 
@@ -10,18 +10,18 @@
 
 # 💫 About Me
 
-🎓 I'm currently pursuing **B-Tech First Year** at **Birla Global University, Bhubaneswar**  
+🎓 B-Tech First Year Student at **Birla Global University, Bhubaneswar**  
 
 🌱 Currently learning **Node.js** & exploring **Full Stack Web Development**
 
 ⚡ Passionate about:
-- Modern Web Design
+- Modern UI/UX
 - Backend Development
 - Open Source
-- UI/UX
+- Creative Coding
 
 💡 Goal:
-> Become a skilled Full Stack Developer and build impactful projects.
+> To become a skilled Full Stack Developer and contribute to impactful projects.
 
 ---
 
@@ -29,13 +29,24 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7avpYktm)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkarcodes10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/10-pushkar-raj)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/rajtpushkar)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PushkarRaj_1025)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Pushkar-Codes-the-bold)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkarcodes10@gmail.com)
+<a href="https://discord.gg/7avpYktm">
+  <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+</a>
+<a href="https://instagram.com/pushkarcodes10">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+<a href="https://linkedin.com/in/10-pushkar-raj">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+<a href="https://x.com/PushkarRaj_1025">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+<a href="mailto:pushkarcodes10@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+<a href="https://github.com/pushkarcodes10">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
 </div>
 
@@ -45,15 +56,17 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,git,github,nodejs,vscode&perline=5" />
+
+</div>
+
+---
+
+# 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,nextjs" />
 
 </div>
 
@@ -63,11 +76,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=pushkarcodes10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarcodes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=pushkarcodes10&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarcodes10&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarcodes10&theme=tokyonight&hide_border=true&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarcodes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -77,7 +90,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=pushkarcodes10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=pushkarcodes10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -87,27 +100,37 @@
 
 <div align="center">
 
-[![Pushkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushkarcodes10&theme=tokyo-night)](https://github.com/pushkarcodes10)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkarcodes10&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# ✍️ Random Dev Quote
+# ✍️ Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=pushkarcodes10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=pushkarcodes10&icon=5&color=12" />
 
 </div>
 
@@ -115,16 +138,8 @@
 
 <div align="center">
 
-### 👀 Profile Views
+### 💙 Thanks for visiting my profile!
 
-![](https://visitcount.itsvg.in/api?id=pushkarcodes10&icon=5&color=6)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
