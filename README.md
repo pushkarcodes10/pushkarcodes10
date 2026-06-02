@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Node.js+Learner;Open+Source+Enthusiast;Building+Cool+Things+with+Code+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Java+Learner;Open+Source+Enthusiast;Building+Cool+Things+with+Code+🚀" />
 
 </div>
 
