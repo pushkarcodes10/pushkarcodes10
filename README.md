@@ -27,26 +27,32 @@
 
 # 🌐 Connect With Me
 
+<!-- 🌐 Connect With Me -->
 <div align="center">
 
-<a href="https://discord.gg/7avpYktm">
-  <img src="https://skillicons.dev/icons?i=discord" height="50"/>
-</a>
-<a href="https://instagram.com/pushkarcodes10">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-<a href="https://linkedin.com/in/10-pushkar-raj">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-<a href="https://x.com/PushkarRaj_1025">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
-</a>
-<a href="mailto:pushkarcodes10@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-<a href="https://github.com/pushkarcodes10">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+  <a href="https://discord.gg/7avpYktm">
+    <img src="https://skillicons.dev/icons?i=discord" height="50" style="margin:0 12px"/>
+  </a>
+
+  <a href="https://instagram.com/pushkarcodes10">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin:0 12px"/>
+  </a>
+
+  <a href="https://linkedin.com/in/10-pushkar-raj">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin:0 12px"/>
+  </a>
+
+  <a href="https://x.com/PushkarRaj_1025">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="50" style="margin:0 12px"/>
+  </a>
+
+  <a href="mailto:pushkarcodes10@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin:0 12px"/>
+  </a>
+
+  <a href="https://github.com/pushkarcodes10">
+    <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:0 12px"/>
+  </a>
 
 </div>
 
@@ -56,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,git,github,nodejs,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,git,github,nodejs,mongodb,express,vscode&perline=5" />
 
 </div>
 
@@ -66,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=java,react,nextjs" />
 
 </div>
 
@@ -90,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pushkarcodes10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pushkarcodes10&theme=onestar&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -130,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=pushkarcodes10&icon=5&color=12" />
+<img src="https://komarev.com/ghpvc/?username=pushkarcodes10&color=blue" />
 
 </div>
 
