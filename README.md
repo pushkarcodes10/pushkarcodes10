@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,git,github,nodejs,mongodb,express,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,git,github,nodejs,mongodb,react,nextjs,express,vscode&perline=5" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=java" />
 
 </div>
 
