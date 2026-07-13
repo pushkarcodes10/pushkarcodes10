@@ -1,151 +1,56 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Pushkar Raj
+<div align="center">
+  <h1>Hi, I'm Pushkar👋</h1>
+  <p><strong>Full-Stack Engineer in Progress • Open Source Contributor</strong></p>
+  <p>Building elegant solutions to complex problems. Focused on performance, scalability, and clean code.</p>
+</div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Java+Learner;Open+Source+Enthusiast;Building+Cool+Things+with+Code+🚀" />
-
+  <a href="https://www.linkedin.com/in/10-pushkar-raj/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/pushkarcodes10" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+  <a href="https://www.instagram.com/pushkarcodes10/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="X" /></a>
+  <a href="mailto:pushkarcodes10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </div>
 
 ---
 
-# 💫 About Me
+### 💼 Current Focus
 
-🎓 B-Tech First Year Student at **Birla Global University, Bhubaneswar**  
-
-🌱 Currently learning **Node.js** & exploring **Full Stack Web Development**
-
-⚡ Passionate about:
-- Modern UI/UX
-- Backend Development
-- Open Source
-- Creative Coding
-
-💡 Goal:
-> To become a skilled Full Stack Developer and contribute to impactful projects.
+* 🌱 **Deep Diving:** Mastering **Java** and core backend architecture paradigms.
+* 🚀 **Full-Stack Assembly:** Engineering end-to-end web applications with robust frontends and scalable data layers.
+* 🧠 **Concept Reinforcement:** Revising and cementing fundamental software engineering concepts by actively building production-ready projects.
 
 ---
 
-# 🌐 Connect With Me
+### 🛠️ Ecosystem
 
-<!-- 🌐 Connect With Me -->
-<div align="center">
+<b align="left">Languages</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,c" />
+</p>
 
-  <a href="https://discord.gg/7avpYktm">
-    <img src="https://skillicons.dev/icons?i=discord" height="50" style="margin:0 12px"/>
-  </a>
+<b align="left">Frameworks & Tools</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+</p>
 
-  <a href="https://instagram.com/pushkarcodes10">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin:0 12px"/>
-  </a>
-
-  <a href="https://linkedin.com/in/10-pushkar-raj">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin:0 12px"/>
-  </a>
-
-  <a href="https://x.com/PushkarRaj_1025">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="50" style="margin:0 12px"/>
-  </a>
-
-  <a href="mailto:pushkarcodes10@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin:0 12px"/>
-  </a>
-
-  <a href="https://github.com/pushkarcodes10">
-    <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:0 12px"/>
-  </a>
-
-</div>
+<b align="left">Cloud & Database</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ---
 
-# 💻 Tech Stack
+### 📈 Metrics & Activity
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,tailwind,git,github,nodejs,mongodb,react,nextjs,express,vscode&perline=5" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkarcodes10&theme=calm" alt="GitHub Profile Details" width="100%" />
 </div>
+
+<br />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pushkarcodes10&theme=calm" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pushkarcodes10&theme=calm" width="49%" />
+</p>
 
 ---
-
-# 🚀 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarcodes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarcodes10&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarcodes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pushkarcodes10&theme=onestar&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkarcodes10&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# ✍️ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pushkarcodes10&color=blue" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-
-</div>
