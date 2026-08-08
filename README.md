@@ -30,12 +30,12 @@
 
 <b align="left">Frameworks & Tools</b>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,git,github,vscode,windows" />
 </p>
 
 <b align="left">Cloud & Database</b>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma,vercel" />
 </p>
 
 ---
