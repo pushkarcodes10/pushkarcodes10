@@ -35,7 +35,7 @@
 
 <b align="left">Cloud & Database</b>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma,mysql,postgresql,vercel" />
 </p>
 
 ---
